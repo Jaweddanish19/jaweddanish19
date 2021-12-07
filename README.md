@@ -22,7 +22,7 @@
 
 - 👀 Apart from this I love to design and I'm interested into robotics and technical stuffs I am also ineterested into cloud computing
 
-- 📧 Mail me **mddanishjawed786@gmail.com**
+- 📧 Mail me **mddanishjawed.19dec@gmail.com**
 
 <!-- - 🤞 Read my blogs on me on [medium](https://medium.com/@firdausj.ug20.ee) -->
 
