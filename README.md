@@ -12,7 +12,7 @@
 
 <h1 align="center">🧾 Overview About Me:-</h1>
 
-- 🔭 I’m currently working on <strong>C</strong>Language
+- 🔭 I’m currently working on <strong>C</strong> Language
 
 - 🌱 I’m currently learning **Financing and investment**
 
